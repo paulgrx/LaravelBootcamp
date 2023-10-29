@@ -12,7 +12,7 @@
 Step by step how to open and use my code
 
 
-- [`GitHUb Clone`](https://github.com/paulgrx/LaravelBootcamp.git)
+- [`GitHub Clone`](https://github.com/paulgrx/LaravelBootcamp.git)
 - `composer install`
 - `php artisan key: generate`
 - `php artisan migrate`
