@@ -11,11 +11,10 @@
 
 Step by step how to open and use my code
 
-
-- [`GitHub Clone`](https://github.com/paulgrx/LaravelBootcamp.git)
 - `composer install`
 - `php artisan key: generate`
 - `php artisan migrate`
+- `copy .env.example to .env`
 - `npm install`
 - `npm run build`
 
